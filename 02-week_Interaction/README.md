@@ -24,7 +24,7 @@ Take video of how people react to pathways or architectural features of structur
 
 - Readings: found in the "examples folder" at the top of this page. That will take you to a Github page where you can download the zip folder of readings. As you read, write down one or two questions that come to mind and pick out one quote that supports a big idea or take-away from the reading. We will use these to generate discussion next week.
 - As you move around the city over the next week, observe. Explore. Look. Listen. How will you approach project 1? keep a journal of your observations, ideas, inspirations. Next week, you will do field work to write your instructions, draw your map, make your measurements. I will be available to help in any way that I can. Please bring the materials you will want to use for your project with you to class. It is encouraged and advisable to work together to help each other with measuring and documenting. Groups of two or three would be best.
-- Choose an artist, technology, architect, firm, or whatever that is germane to interaction to share next week in class. 
+- Choose an artist, technology, architect, firm, or whatever that is germane to interaction to share next week in class.
 
 ## Resources:
 
