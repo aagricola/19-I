@@ -11,7 +11,10 @@
 - Work on your Measure/Observe projects
   - Individual meetings with me as needed
 
-## Today's Presented Resources:
+## Today's Presented Topics:
+
+- [Olafur Eliasson Bio](https://olafureliasson.net/biography)
+    - [Olafur Eliasson, Ice Watch](http://icewatchlondon.com/)
 
 ## Measure & Observe Inspiration/Conversation Starters
 
