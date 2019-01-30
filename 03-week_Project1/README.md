@@ -20,6 +20,9 @@
 - [Daniel Rozin](http://www.smoothware.com/danny/)
 - [The Everyday Projects](https://www.everydayprojects.org)
 - [The Floating Piers](https://www.youtube.com/watch?v=0LjDl3psRNs&feature=youtu.be)
+- [Meow Wolf](http://www.arteviste.com/arteviste/2016/11/21/a-review-of-nan-goldin-the-ballad-of-sexual-dependency-at-moma-new-york)
+- [Jenny Holtzer](https://projects.jennyholzer.com/projections)
+- [Nota Bene](https://www.youtube.com/watch?v=Nnq4rvPT4Qc)
 
 ## Measure & Observe Inspiration/Conversation Starters
 
