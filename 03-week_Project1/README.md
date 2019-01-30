@@ -6,9 +6,10 @@
 
 - Student Presentations
   - Email me a link to your topic/artist/designer
-- Space Exercises
 - Discuss Readings
+- Space Exercises or Necessary skill building(?)
 - Work on your Measure/Observe projects
+  - Individual meetings with me as needed
 
 ## Today's Presented Resources:
 
