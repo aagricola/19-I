@@ -1,4 +1,4 @@
-# Week 2 Intro to interaction
+# Week 3: Measure/Observe Project Work Day
 
 ## Welcome!
 
