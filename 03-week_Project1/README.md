@@ -15,6 +15,11 @@
 
 - [Olafur Eliasson Bio](https://olafureliasson.net/biography)
     - [Olafur Eliasson, Ice Watch](http://icewatchlondon.com/)
+    - [Instagram](https://www.instagram.com/studioolafureliasson/?hl=en)
+- [Rafael Lozano-Hemmer](https://hirshhorn.si.edu/exhibitions/rafael-lozano-hemmer-pulse/)
+- [Daniel Rozin](http://www.smoothware.com/danny/)
+- [The Everyday Projects](https://www.everydayprojects.org)
+- [The Floating Piers](https://www.youtube.com/watch?v=0LjDl3psRNs&feature=youtu.be)
 
 ## Measure & Observe Inspiration/Conversation Starters
 
