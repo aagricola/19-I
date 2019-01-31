@@ -23,6 +23,7 @@
 - [Meow Wolf](http://www.arteviste.com/arteviste/2016/11/21/a-review-of-nan-goldin-the-ballad-of-sexual-dependency-at-moma-new-york)
 - [Jenny Holtzer](https://projects.jennyholzer.com/projections)
 - [Nota Bene](https://www.youtube.com/watch?v=Nnq4rvPT4Qc)
+- [Jeong Choi](https://m.blog.naver.com/ohseongae/221352603956)
 
 ## Measure & Observe Inspiration/Conversation Starters
 
