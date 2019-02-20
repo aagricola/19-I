@@ -4,6 +4,7 @@
 
 - Drink hot cocoa, make snowmen/women, throw snowballs ... aaaand
 - Make sure you have contributed to your [group reading synopsis 1 & 2](https://docs.google.com/document/d/1SmNsg34jqr2IzgAZenIsk2onUqqwqFBUZLxI8YdGH7o/edit)
+- Turn in you museum study from last week (make a document in your google drive folder)
 - Project 2
   - Look at my examples for Project 2
   - Watch Tedtalk link at the bottom
