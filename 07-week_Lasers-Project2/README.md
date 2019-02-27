@@ -1,4 +1,4 @@
-# Week 6: SNOW DAY!!!
+# Week 7: Laser Cutting & Project 2 Work Day!
 
 ## Today:
 
@@ -13,7 +13,7 @@
 
 Download the examples in today's folder. Work in the Illustrator template. Create a simple shape no more than 2" x 2" using a red outline; this shape is to be cut out. Inside that shape, using the blue outline, create a design to be vector engraved (this will not be cut all the way through). Using black fill, write something using the text tool that will be raster engraved.
 
-Partner up with someone to help each other cut these out using the laser cutter (because two heads are always better than one!). Return to the quick-start manual in today's folder or ask me questions as needed. 
+Partner up with someone to help each other cut these out using the laser cutter (because two heads are always better than one!). Return to the quick-start manual in today's folder or ask me questions as needed.
 
 ## Project 2: Call to Action (Due March 6)
 
