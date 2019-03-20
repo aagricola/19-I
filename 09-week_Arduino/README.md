@@ -27,16 +27,17 @@ Simple Circuits:
 
 ## Homework:
 
-- Choose a work of interactive art or design to present to the class
 - Prepare for next week's visit with Robin bell
   - [Watch this video](https://vimeo.com/320824318)
   - [Read this article](https://www.washingtonpost.com/express/2019/02/14/robin-bell-contemplates-power-transparency-with-open/?noredirect=on&utm_term=.0769ba5d4988)
   - Please visit the work in the Gallery and think of at least one question you might like to ask him next week when he talks with our class
+- Read "Talk to Me"
+  - highlight an intriguing aspect of the reading to share with the class
 
 ## Resources
 
 - Download a free copy of [Getting Started With Arduino](http://it-ebooks.info/book/1338/) by Massimo Banzi
-If you want to review what we did in class:
+- If you want an in depth review what we learned in class:
 - [PMSciArt Intro to Electronics](http://pmsciart.com/project/1351/)
 - [PMSciArt intro to Arduino](http://pmsciart.com/project/arduino-basics/)
 - [How to Blink an LED](https://www.youtube.com/watch?v=33sNhlekRV8&list=PLYutciIGBqC2rqlBw3wVX4LjFlcjtWjGP&index=2)
