@@ -1,4 +1,4 @@
-# Week 7: Laser Cutting & Project 2 Work Day!
+# Week 9: Intro to Electronics!
 
 ## Today:
 
