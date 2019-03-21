@@ -31,7 +31,15 @@ Using any combination of skills developed in class and through personal research
 
 "Critical design is one of the most promising and far-reaching new areas of study, using conceptual scenarios built around hypothetical objects to comment on the social, political, and cultural consequences of new technologies and behaviors. Its disciples are experts in "what if?" - Paola Antonelli
 
-Think of this project in terms of critical design as Paola Antonelli describes it in "Talk to Me". Address your relationship to a thing, situation, social or cultural scenario that is at odds with the way you would like the world to be and design a hypothetical object that corrects it or at least allows an experience of or understanding of an alternative. Think about the physical interface and installation of the work. How might you invite interaction into your creation? Reflect back to ways Rafael Lozano Hemmer used signifiers to connote affordances in his works. 
+Think of this project in terms of critical design as Paola Antonelli describes it in "Talk to Me". Address your relationship to a thing, situation, social or cultural scenario that is at odds with the way you would like the world to be and design a hypothetical object that corrects it or at least allows an experience of or understanding of an alternative. Think about the physical interface and installation of the work. How might you invite interaction into your creation? Reflect back to ways Rafael Lozano Hemmer used signifiers to connote affordances in his works.
+
+## Timeline for Remainder of the Semester
+
+- March 27: Artist Visit from Robin bell; Intro to Arduino
+- April 3: Mad Mapper Workshop & Project work day
+- April 10: Critique / Documentation / Introduce Project 4
+- April 17: Hive Design Workday
+- April 24: Hive Design Assembly / Critique & Document / Clean up
 
 ## Homework:
 
