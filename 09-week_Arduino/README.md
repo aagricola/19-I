@@ -40,6 +40,7 @@ Think of this project in terms of critical design as Paola Antonelli describes i
 - April 10: Critique / Documentation / Introduce Project 4
 - April 17: Hive Design Workday
 - April 24: Hive Design Assembly / Critique & Document / Clean up
+- May 8: One-on-one meetings with Amanda 
 
 ## Homework:
 
