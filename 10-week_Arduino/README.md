@@ -19,25 +19,9 @@ Last week we had trouble finding the Metro because we had not installed the prop
 
 [Mac Setup](https://learn.adafruit.com/experimenters-guide-for-metro/mac-setup)
 
-## Interface
-
-[Niklas Roy "My Little Piece of Privacy"](https://youtu.be/rKhbUjVyKIc), 2010
-
-[Lara Defayes, "FOMO Survival Kit"](https://vimeo.com/184654093), 2016
-
-[Khalil Klouche "Knock Knock"](https://vimeo.com/60773296)
-
-[Elowan - A plant-robot hybrid](https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/), by Harpreet Sareen Pattie Maes
-
-[MIT Fluid Interface Projects](https://www.media.mit.edu/groups/fluid-interfaces/projects/)
-
 ## Arduino
 
 [Intro to Arduino - Digital Signal](https://docs.google.com/presentation/d/e/2PACX-1vSGg1m6meaZMJcCXPn2bYvBKKzyEVN_cak2hm9wtn7438EMypZ_Jv_abR7Gc86oUmkc73jENSX0m2KH/pub?start=false&loop=false&delayms=3000)
-
-[Intro to Arduino - Analog Signal](https://docs.google.com/presentation/d/1BhNyA6jWcWhAaleHbIvDaak23S0KEZxa4m57XQX4VVc/embed?start=false&loop=false&delayms=5000&slide=id.p)
-
-[Soldering Presentation](https://docs.google.com/presentation/d/10bPH_nBrClyt_rEKhuCHWSxKT2OhPTUtUOzh2Y-Bc6E/pub?start=false&loop=false&delayms=3000)
 
 ## Project 3
 
@@ -59,9 +43,9 @@ Think of this project in terms of critical design as Paola Antonelli describes i
 
 ## Homework:
 
-- Project proposal
+- Project proposal - send to me by Monday
 - Order / purchase necessary materials and bring to next week's work week
-- Two readings, one on Code and another on alternative interfaces, gender, and poetic interactivity
+- Two readings, one on code and another on alternative interfaces, gender, and poetic interactivity
 
 ## Resources
 
