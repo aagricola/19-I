@@ -16,3 +16,4 @@
 ## Homework:
 
 - Reading in today's download folder
+- Take some videos on your phone or with a camera to use next week in class for Mad Mapper demo
