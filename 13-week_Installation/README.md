@@ -1,4 +1,4 @@
-# Week 13: Project 3 Critique
+# Week 13: Installation // Video
 
 ## Today:
 
