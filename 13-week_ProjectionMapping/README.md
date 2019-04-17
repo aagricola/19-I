@@ -2,12 +2,13 @@
 
 ## Today:
 
-- Video Installation
-- Create animation in Photoshop or video editing in Premier
-  - Learn to use Mad Mapper
-  - Map animations
+- Installations
 - Discuss Reading
 - Project 4 introduction and ideation
+- Video Installation
+- Create a short animation in Photoshop or video editing in Premier
+  - Mad Mapper (beginning of next week)
+  - Map animations
 
 ## Project 4
 
